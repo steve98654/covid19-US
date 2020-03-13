@@ -14,4 +14,4 @@ which will update automatically to the latest available data upon running this I
 Set datatype to 'Confirmed Cases', 'Deaths', or 'Recovered' depending on the type of 
 information you are interested in visualizing.
 
-![alt text](https://raw.githubusercontent.com/steve98654/covid19-US/blob/master/map.png)
+![alt text](https://github.com/steve98654/covid19-US/blob/master/map.png)
